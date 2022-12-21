@@ -151,3 +151,13 @@ Go the chain explorer to view your transaction or follow the [**Original tutoria
 📝 Edit your frontend `App.jsx` in `packages/react-app/src`
 
 
+[IPFS]: https://ipfs.tech/#install
+[faucet]: https://testfaucet.bt.io
+[simple-nft-example]: https://github.com/scaffold-eth/scaffold-eth/tree/simple-nft-example
+[pic_localhost]: https://i.imgur.com/PyWMkaI.png
+[pic_ipfs_config]: https://i.imgur.com/cPrl2Me.png
+[pic_mint]: https://i.imgur.com/8FmgZ0L.png
+[pic_ipfs_upload]: https://i.imgur.com/SjvifHl.png
+[pic_generate]: https://i.imgur.com/Rx4sqCW.png
+[pic_faucet]: https://i.imgur.com/vEUn2s3.png
+[pic_NFT]: https://i.imgur.com/rgXDn6r.png
